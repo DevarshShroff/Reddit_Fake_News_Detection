@@ -1,4 +1,4 @@
-# Reddit_Fake_News_Detection
+# Reddit Fake News Detection
 
 ## Project Introduction
 
